@@ -2,6 +2,8 @@
 
 A browser shift simulator inspired by my real part-time job at a car wash. Run the line, keep customers happy, and survive the rush.
 
+![Everclean Carwash Simulator screenshot](docs/screenshot.png)
+
 ## Run
 Open `carwash.html` in a browser, or serve it:
 ```bash
