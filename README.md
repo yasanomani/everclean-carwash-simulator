@@ -2,6 +2,8 @@
 
 A browser shift simulator inspired by my real part-time job at a car wash. Run the line, keep customers happy, and survive the rush.
 
+**Live demo:** https://yasas-everclean-carwash-simulator.netlify.app/
+
 ![Everclean Carwash Simulator screenshot](docs/screenshot.png)
 
 ## Run
